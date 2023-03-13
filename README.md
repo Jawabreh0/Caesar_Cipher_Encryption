@@ -7,7 +7,7 @@ To run the Python version of the Caesar Cipher algorithm, simply execute the Cae
 ```python
 python Caesar_Cipher.py
 ```
-he script will present a menu that allows you to either encrypt or decrypt a message using a randomly generated key. When encrypting a message, the encrypted result will be saved to a file called encryption.txt. Similarly, when decrypting a message, the decrypted result will be saved to a file called decryption.txt.
+The script will present a menu that allows you to either encrypt or decrypt a message using a randomly generated key. When encrypting a message, the encrypted result will be saved to a file called encryption.txt. Similarly, when decrypting a message, the decrypted result will be saved to a file called decryption.txt.
 
 ### C++ Version
 To run the C++ version of the Caesar Cipher algorithm, you need to compile the caesar-cipher.cpp source code using a C++ compiler, such as g++. You can use the following command to compile the code:
